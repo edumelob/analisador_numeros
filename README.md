@@ -7,8 +7,3 @@ Um programa em Python que analisa uma lista de números, mostrando estatísticas
 - Mostra a quantidade de números informados
 - Gera gráfico de barras dos valores
 - Salva os resultados em `.txt`
-
-## 📦 Como usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/analisador_numeros.git
